@@ -1,5 +1,6 @@
 # PTH
   Programa de treinamento HubCount
 
-  Repositório criado.
+  /*Seguindo a aula do Guanabara, foi feito a instalação do Git e GitHub Desktop
+  Repositorio criado*/
     
