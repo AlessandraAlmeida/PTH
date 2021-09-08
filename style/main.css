@@ -35,13 +35,14 @@ body{
     padding-left: 25%;
 }
 
-a:link {
+.contato a {
     text-decoration: none;
     color: #E6E6FA;
 }
    
 a:hover {
     text-decoration: underline;
+    
 }
 
    
